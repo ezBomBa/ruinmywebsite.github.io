@@ -1,1 +1,1 @@
-# ruinmywebsite.github.io
+# just a website
